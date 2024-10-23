@@ -363,6 +363,84 @@
                      <img src="assets/img/portfolio/galleri15.webp" class="img-fluid" alt="">
                   </div>
                </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri16.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri17.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri18.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri19.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri20.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri21.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri22.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri23.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri24.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri25.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri26.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri27.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
+
+               <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div class="portfolio-wrap">
+                     <img src="assets/img/portfolio/galleri28.webp" class="img-fluid" alt="">
+                  </div>
+               </div>
             </div>
 
          </div>
